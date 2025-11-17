@@ -1,0 +1,524 @@
+Nom-plat,Complexitat,Dieta,Familia,Ingredient-principal,Intensitat-sabor,Origen-plat,Preu-plat,Temperatura,Temporada,Tipus-plat,Tipus-public,Estil-plat
+Broqueta de pollastre amb curri,Mitjana,Carn,Broqueta,Pollastre,Alta,Àsia,7.68,Calent,Primavera,Entrant,Adultsnens,Classic
+Canapè de gamba,Mitjana,Peix,Canapè,Gamba,Mitjana,Mediterrani,03.05,Fred,Primavera,Entrant,Adultsnens,Classic
+Canapè de salmó,Mitjana,Peix,Canapè,Salmó,Mitjana,Nordic,02.05,Fred,Anual,Entrant,Adultsnens,Classic
+Con de xips variats,Baixa,Vegetarià,Snack,Patata,Baixa,Mundial,7.74,Ambient,Anual,Entrant,Adultsnens,Classic
+Crocant de foie,Mitjana,Carn,Tapa,Foie gras,Alta,França,7.64,Fred,Anual,Entrant,Adultsnens,Sibarita
+Cullereta de salmó marinat,Baixa,Peix,Marinat,Salmó,Mitjana,Nordic,7.57,Fred,Anual,Entrant,Adultsnens,Classic
+Dàtils amb bacó,Baixa,Carn,Tapa,Dàtil,Alta,Mediterrani,2.88,Calent,Anual,Entrant,Adultsnens,Classic
+Ferrero de paté d’ànec,Alta,Carn,Tàrtar,Fetge d’ànec,Alta,França,4.21,Fred,Tardor,Entrant,Adultsnens,Classic
+Formatges variats,Baixa,Vegetarià,Formatge,Llet de vaca/ovella,Mitjana,Europa,6.72,Ambient,Anual,Entrant,Adultsnens,Classic
+"Gilda d’oliva, anxova i piparra",Baixa,Peix,Pintxo,Anxova,Alta,Espanya,4.43,Fred,Anual,Entrant,Adultsnens,Classic
+Langostí en tempura,Mitjana,Peix,Fregit,Langostí,Mitjana,Japó,2.89,Calent,Primavera,Entrant,Adultsnens,Classic
+Mini caneló de confit d’ànec,Alta,Carn,Forn,Ànec,Alta,França,2.2,Calent,Tardor,Entrant,Adultsnens,Classic
+Mini hamburgueses de vedella,Mitjana,Carn,Planxa,Vedella,Alta,Estatsunits,3.52,Calent,Anual,Entrant,Adultsnens,Classic
+Mini quiche de verdures,Mitjana,Vegetarià,Forn,Ous,Mitjana,França,5.25,Calent,Primavera,Entrant,Adultsnens,Classic
+Rabas de calamar a la romana,Mitjana,Peix,Fregit,Calamar,Alta,Espanya,4.34,Calent,Anual,Entrant,Adultsnens,Classic
+Secallona d’organyà,Baixa,Carn,Embotit,Porc,Alta,Espanya,3.18,Ambient,Anual,Entrant,Adultsnens,Classic
+"Surtit de croquetes (calçots, rabo de bou, pop, xipirons o pernil)",Mitjana,Carn,Reboçat,Varia segons tipus,Mitjana,Espanya,03.07,Calent,Anual,Entrant,Adultsnens,Sibarita
+Torradeta amb escalivada i anxova,Baixa,Peix,Torrada,Anxova,Alta,Espanya,07.09,Fred,Estiu,Entrant,Adultsnens,Classic
+Xarrup de salmorejo,Baixa,Vegetarià,Crema freda,Tomàquet,Mitjana,Espanya,3.97,Fred,Primavera,Entrant,Adultsnens,Classic
+"Amanida de brots amb pernil ibèric, ceba caramel·litzada i formatge de cabra de miraflores",Mitjana,Carn,Amanida,Brots tendres,Mitjana,Espanya,13.13,Fred,Primavera,Primer,Adultsnens,Classic
+Amanida de formatge de cabra amb vinagreta de mel i nous,Mitjana,Vegetarià,Amanida,Formatge de cabra,Mitjana,Espanya,10.41,Fred,Primavera,Primer,Adultsnens,Classic
+Caneló de crep de bolets i gambes amb salsa de carabiners,Alta,Peix,Forn,Bolets,Alta,Espanya,16.86,Calent,Tardor,Primer,Adultsnens,Classic
+Cascada de llagostins,Mitjana,Peix,Amanida,Llagostí,Mitjana,Mediterrani,13.59,Fred,Estiu,Primer,Adultsnens,Classic
+Crema de gambes,Mitjana,Peix,Crema calenta,Gambes,Mitjana,Mediterrani,14.77,Calent,Hivern,Primer,Adultsnens,Classic
+Crema de marisc,Mitjana,Peix,Crema calenta,Marisc,Alta,Mediterrani,17.52,Calent,Hivern,Primer,Adultsnens,Classic
+Crema de meló amb encenalls de pernil ibèric,Baixa,Carn,Crema freda,Meló,Baixa,Espanya,16.64,Fred,Estiu,Primer,Adultsnens,Classic
+Crema de porros amb cloïsses,Mitjana,Peix,Crema calenta,Porros,Baixa,Espanya,13.19,Calent,Hivern,Primer,Adultsnens,Classic
+Espàrrecs al forn sobre bearnesa i formatge fos,Mitjana,Vegetarià,Forn,Espàrrecs,Mitjana,França,12.65,Calent,Primavera,Primer,Adultsnens,Classic
+Espàrrecs de navarra amb pernil ibèric de gla,Baixa,Carn,Amanida,Espàrrecs,Baixa,Espanya,19.17,Fred,Primavera,Primer,Adultsnens,Classic
+Gaspatxo andalús,Baixa,Vegà,Crema freda,Tomàquet,Baixa,Espanya,13.63,Fred,Estiu,Primer,Adultsnens,Classic
+Gòndola de pinya OrientMitjà amb gambes i cranc reial,Mitjana,Peix,Amanida,Pinya,Mitjana,Mediterrani,11.15,Fred,Estiu,Primer,Adultsnens,Sibarita
+Llenguado a la meunière,Alta,Peix,Forn,Llenguado,Mitjana,França,19.28,Calent,Anual,Primer,Adultsnens,Classic
+Llenguado a la planxa,Mitjana,Peix,Planxa,Llenguado,Mitjana,Mediterrani,16.83,Calent,Anual,Primer,Adultsnens,Classic
+Llenguado amb crema d’ametlles,Alta,Peix,Forn,Llenguado,Alta,Mediterrani,13.95,Calent,Anual,Primer,Adultsnens,Classic
+Lluç de palangre a la vasca,Alta,Peix,Estofat,Lluç,Alta,Espanya,16.44,Calent,Anual,Primer,Adultsnens,Classic
+Macarrons a la bolonyesa,Baixa,Carn,Pasta,Pasta,Mitjana,Itàlia,18.01,Calent,Anual,Primer,Nens,Classic
+Pinya OrientMitjà o meló amb pernil ibèric de gla,Baixa,Carn,Amanida de fruita,Pinya/meló,Mitjana,Espanya,17.94,Fred,Estiu,Primer,Adultsnens,Classic
+Rap a la marinera,Alta,Peix,Estofat,Rap,Alta,Espanya,13.43,Calent,Anual,Primer,Adultsnens,Classic
+Salmorejo cordovès amb pernil cruixent,Baixa,Vegetarià,Crema freda,Tomàquet,Baixa,Espanya,12.04,Fred,Estiu,Primer,Adultsnens,Classic
+Surtit d’ahumats (bacallà i salmó) i foie de pato micuit,Alta,Peix,Ahumats,Salmó/bacallà/foie,Alta,França,10.19,Fred,Anual,Primer,Adultsnens,Sibarita
+"Tàrtar de salmó fumat amb alvocat, mango i vinagreta de cibulet",Mitjana,Peix,Tàrtar,Salmó,Mitjana,Mediterrani,14.39,Fred,Estiu,Primer,Adultsnens,Sibarita
+Bacallà gratinat amb muselina d’all suau,Mitjana,Peix,Forn,Bacallà,Mitjana,Portugal,32.72,Calent,Anual,Segon,Adultsnens,Classic
+Carbonara de vedella,Mitjana,Carn,Pasta,Vedella,Alta,Itàlia,22.18,Calent,Anual,Segon,Adultsnens,Classic
+Confit d’ànec,Alta,Carn,Forn,Ànec,Alta,França,19.4,Calent,Hivern,Segon,Adultsnens,Sibarita
+Confit d’ànec amb poma caramel·litzada,Alta,Carn,Forn,Ànec,Alta,França,28.91,Calent,Hivern,Segon,Adultsnens,Sibarita
+Croquetes casolanes,Baixa,Carn,Reboçat,Llet,Mitjana,Espanya,22.62,Calent,Anual,Segon,Adultsnens,Classic
+Cuixa de cabrit al forn amb patates panadera,Alta,Carn,Forn,Cabrit,Alta,Espanya,23.4,Calent,Anual,Segon,Adultsnens,Classic
+Entrecot de vedella amb salsa de bolets,Alta,Carn,Planxa,Vedella,Alta,Espanya,28.78,Calent,Tardor,Segon,Adultsnens,Classic
+Entrecot de vedella amb salsa de pebre verd,Alta,Carn,Salsa,Vedella,Alta,França,24.71,Calent,Anual,Segon,Adultsnens,Classic
+Escalopa de vedella amb patates fregides,Baixa,Carn,Fregit,Vedella,Alta,Espanya,34.99,Calent,Anual,Segon,Adultsnens,Classic
+Espatlla de cabrit al forn de llenya,Alta,Carn,Forn,Cabrit,Alta,Espanya,30.33,Calent,Anual,Segon,Adultsnens,Classic
+Espatlla de xai imperial al forn de llenya (lechazo),Alta,Carn,Forn,Xai (lechazo),Alta,Espanya,18.15,Calent,Anual,Segon,Adultsnens,Classic
+Llom de lluç amb salsa de cava,Mitjana,Peix,Salsa,Lluç,Mitjana,Espanya,29.27,Calent,Anual,Segon,Adultsnens,Classic
+Melós de vedella amb bolets,Alta,Carn,Estofat,Vedella,Alta,Espanya,19.85,Calent,Tardor,Segon,Adultsnens,Classic
+Solomillo de porc ibèric amb crema d’ametlles,Mitjana,Carn,Forn,Porc ibèric,Alta,Espanya,25.48,Calent,Anual,Segon,Adultsnens,Classic
+Solomillo de vedella al porto,Alta,Carn,Salsa,Vedella,Alta,Portugal,29.86,Calent,Anual,Segon,Adultsnens,Sibarita
+Solomillo de vedella amb salsa roquefort,Alta,Carn,Salsa,Vedella,Alta,França,26.83,Calent,Anual,Segon,Adultsnens,Sibarita
+Solomillo de vedella amb salsa pebre,Alta,Carn,Salsa,Vedella,Alta,França,21.76,Calent,Anual,Segon,Adultsnens,Sibarita
+Solomillo ibèric amb reducció de pedro ximénez,Alta,Carn,Forn,Porc ibèric,Alta,Espanya,31.03,Calent,Anual,Segon,Adultsnens,Sibarita
+Suprema de dorada amb salsa verda,Mitjana,Peix,Salsa,Dorada,Mitjana,Espanya,33.81,Calent,Anual,Segon,Adultsnens,Classic
+Tournedó caçadora,Alta,Carn,Forn,Vedella,Alta,França,22.47,Calent,Tardor,Segon,Adultsnens,Classic
+½ espatlla de xai al forn de llenya (ternasco),Alta,Carn,Forn,Xai,Alta,Espanya,24.83,Calent,Anual,Segon,Adultsnens,Classic
+Coulant de xocolata amb gelat de vainilla,Alta,Vegetarià,Forn,Xocolata,Alta,França,5.75,Fred,Anual,Postres,Adultsnens,Classic
+Fruites de temporada,Baixa,Vegà,Fruita,Fruites,Baixa,Espanya,8.4,Fred,Anual,Postres,Adultsnens,Classic
+Gelat de vainilla amb xocolata calenta,Baixa,Vegetarià,Gelat,Llet,Mitjana,Europa,4.96,Fred,Anual,Postres,Adultsnens,Classic
+Gelat de vainilla o xocolata,Baixa,Vegetarià,Gelat,Llet,Baixa,Europa,5.33,Fred,Anual,Postres,Adultsnens,Classic
+Gelat o sorbet de llimona al cava,Mitjana,Vegetarià,Gelat,Llimona,Baixa,Espanya,30.65,Fred,Estiu,Postres,Adultsnens,Classic
+Pastís de formatge amb fruits del bosc,Alta,Vegetarià,Forn,Formatge crema,Mitjana,Estatsunits,8.69,Fred,Anual,Postres,Adultsnens,Classic
+Pastís de noces,Alta,Vegetarià,Forn,Pastís,Mitjana,Europa,6.94,Fred,Anual,Postres,Adultsnens,Classic
+Profiteroles amb xocolata calenta,Alta,Vegetarià,Forn,Farina,Alta,França,9.87,Fred,Anual,Postres,Adultsnens,Classic
+Sorbet de fruites del bosc,Baixa,Vegà,Gelat,Fruites del bosc,Baixa,Mundial,8.12,Fred,Estiu,Postres,Adultsnens,Classic
+Sorbet de llimona al cava,Mitjana,Vegetarià,Gelat,Llimona,Baixa,Espanya,31.22,Fred,Estiu,Postres,Adultsnens,Classic
+Sorbet de mandarina al cointreau,Mitjana,Vegetarià,Gelat,Mandarina,Baixa,França,5.14,Fred,Estiu,Postres,Adultsnens,Classic
+Sorbet de mango,Baixa,Vegà,Gelat,Mango,Baixa,Àsia,8.5,Fred,Estiu,Postres,Adultsnens,Classic
+Sorbet de mojito,Baixa,Vegà,Gelat,Menta,Baixa,Cuba,9.22,Fred,Estiu,Postres,Adultsnens,Classic
+Sorbet de pinya colada,Mitjana,Vegetarià,Gelat,Pinya,Baixa,Cuba,05.09,Fred,Estiu,Postres,Adultsnens,Classic
+Tiramisú,Alta,Vegetarià,Forn,Formatge mascarpone,Mitjana,Itàlia,6.37,Fred,Anual,Postres,Adultsnens,Classic
+Tiramisú casolà,Alta,Vegetarià,Forn,Formatge mascarpone,Mitjana,Itàlia,7.82,Fred,Anual,Postres,Adultsnens,Classic
+Botifarra,Baixa,Carn,Brasa,Porc,Alta,Espanya,8.78,Calent,Anual,Nan,Adultsnens,Classic
+Formatge gorgonzola,Baixa,Vegetarià,Formatge,Llet de vaca,Alta,Itàlia,7.98,Ambient,Anual,Nan,Adultsnens,Classic
+Formatge idiazábal,Baixa,Vegetarià,Formatge,Llet d'ovella,Mitjana,Espanya,13.12,Ambient,Anual,Nan,Adultsnens,Classic
+Formatge manchego,Baixa,Vegetarià,Formatge,Llet d'ovella,Mitjana,Espanya,13.28,Ambient,Anual,Nan,Adultsnens,Classic
+Formatge roquefort,Baixa,Vegetarià,Formatge,Llet de vaca,Alta,França,13.68,Ambient,Anual,Nan,Adultsnens,Classic
+Pa i mantega,Baixa,Vegetarià,Pa,Farina,Baixa,Europa,13.74,Ambient,Anual,Nan,Adultsnens,Classic
+Paletilla de pernil ibèric de gla,Alta,Carn,Embotit,Porc,Alta,Espanya,11.45,Ambient,Anual,Nan,Adultsnens,Classic
+Pollastre yakitori,Mitjana,Carn,Broqueta,Pollastre,Mitjana,Japó,9.8,Calent,Primavera,Nan,Adultsnens,Classic
+Pop a la brasa,Mitjana,Peix,Planxa,Pop,Alta,Espanya,13.62,Calent,Estiu,Nan,Adultsnens,Sibarita
+Salmó marinat,Mitjana,Peix,Marinat,Salmó,Mitjana,Nordic,11.8,Fred,Anual,Nan,Adultsnens,Classic
+Steak tàrtar,Alta,Carn,Tàrtar,Vedella,Alta,França,9.23,Fred,Anual,Nan,Adultsnens,Sibarita
+Vieires i bolets,Alta,Peix,Planxa,Vieira,Alta,Espanya,12.25,Calent,Tardor,Nan,Adultsnens,Classic
+Surtido de aceitunas,Baixa,Vegà,Snack,Oliva,Baixa,Espanya,6.0,Ambient,Anual,Entrants,Adultsnens,Classic
+Chips de tubérculos,Baixa,Vegà,Snack,Patata,Baixa,Mundial,9.0,Ambient,Anual,Entrants,Adultsnens,Modern
+"Atún con pipas, frutitas y soja",Alta,Peix,Pa,Tonyina,Mitjana,Japó,9.0,Fred,Anual,Entrants,Adultsnens,Modern
+Tartaleta de queso con salmón y caviar,Alta,Peix,Formatge,Salmó,Alta,Nordic,12.0,Fred,Anual,Entrants,Adultsnens,Sibarita
+Tortilla de patatas líquida con trufa,Alta,Vegetarià,Pa,Ou,Alta,Espanya,12.0,Calent,Anual,Entrants,Adultsnens,Sibarita
+"Copa de ensalada de foie, jamón de pato y aceite de vainilla",Alta,Carn,Amanida,Foie,Alta,França,12.0,Fred,Anual,Entrants,Adultsnens,Sibarita
+Pincho de pulpo a la gallega con patata,Mitjana,Peix,Pa,Pop,Mitjana,Espanya,8.0,Calent,Anual,Entrants,Adultsnens,Regional
+Pincho de pavo a la mostaza almendrado,Mitjana,Carn,Pa,Gall dindi,Mitjana,Europa,6.0,Calent,Anual,Entrants,Adultsnens,Classic
+Jamón ibérico,Baixa,Carn,Embotit,Porc,Alta,Espanya,6.0,Fred,Anual,Entrants,Adultsnens,Classic
+Fideuà,Mitjana,Peix,Pasta,Marisc,Mitjana,Espanya,8.0,Calent,Estiu,Entrants,Adultsnens,Regional
+Surtido de quesos con uvas y membrillo,Baixa,Vegetarià,Formatge,Formatge,Mitjana,Europa,6.0,Fred,Anual,Entrants,Adultsnens,Classic
+Huevos de codorniz con tostas de sobrasada,Mitjana,Carn,Torrada,Ou,Mitjana,Espanya,9.0,Calent,Anual,Entrants,Adultsnens,Modern
+Anchoas de roses con tiras de pimiento,Baixa,Peix,Aperitiu,Anxova,Mitjana,Espanya,8.0,Fred,Estiu,Entrants,Adultsnens,Regional
+Tempura de verduritas y tiras de calamar,Mitjana,Peix,Fregit,Calamar,Mitjana,Japó,9.0,Calent,Anual,Entrants,Adultsnens,Modern
+Navajas a la plancha,Mitjana,Peix,Aperitiu,Navaixa,Mitjana,Espanya,12.0,Calent,Estiu,Entrants,Adultsnens,Sibarita
+Calamares a la romana,Baixa,Peix,Fregit,Calamar,Mitjana,Espanya,6.0,Calent,Anual,Entrants,Adultsnens,Classic
+Croquetas,Baixa,Carn,Fregit,Pollastre,Baixa,Espanya,6.0,Calent,Anual,Entrants,Adultsnens,Classic
+Corvina salvaje al horno con caldo de pimientos verdes y berberechos al vapor,Alta,Peix,Forn,Corvina,Alta,Mediterrani,25.0,Calent,Anual,Segon,Adultsnens,Sibarita
+"Solomillo de cerdo ibérico con salsa de ceps, cebollitas escalibadas y puntas de espárragos a la brasa",Alta,Carn,Salsa,Porc,Alta,Espanya,25.0,Calent,Anual,Segon,Adultsnens,Sibarita
+Melós de ternera cocinado lentamente con mini verduritas,Alta,Carn,Aperitiu,Vedella,Alta,Europa,20.0,Calent,Anual,Segon,Adultsnens,Classic
+"Coulis de crema catalana, toffee, mandarina y garrapiñadas",Mitjana,No-lactosa,Crema calenta,Crema,Baixa,Espanya,7.0,Fred,Anual,Postre,Adultsnens,Regional
+"Carpaccio de piña, frutos rojos y helado de yogurt",Mitjana,Vegetarià,Gelat,Pinya,Baixa,Mundial,8.0,Fred,Estiu,Postre,Adultsnens,Modern
+Pastel nupcial st. honore,Alta,Vegetarià,Pa,Farina,Alta,França,6.0,Fred,Anual,Postre,Adultsnens,Classic
+Petits fours y bombones,Mitjana,Vegetarià,Aperitiu,Xocolata,Baixa,França,10.0,Ambient,Anual,Postre,Adultsnens,Sibarita
+"Suprema de daurada salvatge amb alls silvestres, gamba de palamós i brou de porros",Alta,Peix,Forn,Daurada,Alta,Mediterrani,25.0,Calent,Estiu,Segon,Adultsnens,Sibarita
+Llom de llobarro marcat a la brasa amb pil-pil i cloïsses gallegues,Alta,Peix,Brasa,Llobarro,Alta,Espanya,26.0,Calent,Anual,Segon,Adultsnens,Sibarita
+"Taco de bacallà amb espinacs, pinyons, panses i múrgoles",Alta,Peix,Forn,Bacallà,Mitjana,Espanya,22.0,Calent,Anual,Segon,Adultsnens,Regional
+Carré de xai de llet al forn amb mini verdures,Alta,Carn,Forn,Xai,Alta,França,28.0,Calent,Anual,Segon,Adultsnens,Classic
+Magret d’ànec a la brasa amb nyoquis de patata trufats i puré d’orellons,Alta,Carn,Brasa,Ànec,Alta,França,27.0,Calent,Hivern,Segon,Adultsnens,Sibarita
+Medalló de bou a la planxa amb salsa de vins de l’empordà,Alta,Carn,Planxa,Bou,Alta,Espanya,26.0,Calent,Anual,Segon,Adultsnens,Regional
+Sopa de torró amb torrada caramel·litzada i gelat de rovell,Mitjana,Vegetarià,Crema freda,Torró,Mitjana,Espanya,8.0,Fred,Hivern,Postre,Adultsnens,Regional
+"Sopa de festuc, gelatina de moscatell i sorbet de mandarina",Alta,Vegetarià,Crema freda,Festuc,Mitjana,Mediterrani,9.0,Fred,Estiu,Postre,Adultsnens,Sibarita
+Amanida de gambes de roses amb cristall de farigola i tomàquets rostits,Mitjana,Peix,Amanida,Gamba,Mitjana,Mediterrani,12.0,Fred,Estiu,Primer,Adultsnens,Regional
+"Tataki de tonyina del mediterrani amb pèsols, mongetes i kumquat",Alta,Peix,Brasa,Tonyina,Alta,Japó,24.0,Calent,Estiu,Segon,Adultsnens,Modern
+Llobina salvatge amb cítrics i espàrrecs verds,Alta,Peix,Forn,Llobina,Alta,Mediterrani,25.0,Calent,Primavera,Segon,Adultsnens,Sibarita
+"Lluç amb velouté de fonoll, porros joves a la brasa i oli de pau",Alta,Peix,Forn,Lluç,Alta,França,23.0,Calent,Primavera,Segon,Adultsnens,Classic
+Royal de carxofes i foie amb gambes de roses,Alta,Carn,Forn,Foie,Alta,França,26.0,Calent,Hivern,Segon,Adultsnens,Sibarita
+Suprema de daurada al forn,Alta,Peix,Forn,Daurada,Alta,Mediterrani,22.0,Calent,Anual,Segon,Adultsnens,Classic
+Pintó rostit al moment amb parmentier de blat de moro i pinyons torrats,Alta,Carn,Forn,Pintó,Alta,Espanya,25.0,Calent,Hivern,Segon,Adultsnens,Regional
+Garrí ibèric cuit a baixa temperatura amb alls tendres i patates al caviar,Alta,Carn,Forn,Garrí,Alta,Espanya,28.0,Calent,Anual,Segon,Adultsnens,Sibarita
+Espatlla de cabrit amb escalivada de verdures,Alta,Carn,Forn,Cabrit,Alta,Mediterrani,27.0,Calent,Anual,Segon,Adultsnens,Regional
+Caneló de gambes,Mitjana,Peix,Pasta,Gamba,Mitjana,Espanya,14.0,Calent,Anual,Primer,Adultsnens,Classic
+"Carpaccio de pinya, fruita de temporada i gelat de coco",Mitjana,Vegetarià,Amanida de fruita,Pinya,Baixa,Mediterrani,8.0,Fred,Estiu,Postre,Adultsnens,Modern
+Suquet de rap i gambes de roses,Alta,Peix,Estofat,Rap,Alta,Espanya,25.0,Calent,Anual,Segon,Adultsnens,Regional
+Llom de lluç amb cloïsses i kokotxes amb salsa verda,Alta,Peix,Forn,Lluç,Alta,Espanya,26.0,Calent,Anual,Segon,Adultsnens,Sibarita
+Amanida de gambes de la llotja,Mitjana,Peix,Amanida,Gamba,Mitjana,Mediterrani,12.0,Fred,Estiu,Primer,Adultsnens,Regional
+Suprema de corbina amb verdures de temporada,Alta,Peix,Forn,Corbina,Alta,Mediterrani,24.0,Calent,Primavera,Segon,Adultsnens,Classic
+Cua de porc ibèric amb vieires i brou de ceba de figueres,Alta,Carn,Estofat,Porc,Alta,Espanya,27.0,Calent,Anual,Segon,Adultsnens,Sibarita
+Mini sarsuela de la costa,Alta,Peix,Estofat,Lluç,Alta,Espanya,26.0,Calent,Estiu,Segon,Adultsnens,Regional
+Pintó rostit al moment sobre trinxat i verdures,Alta,Carn,Forn,Pintó,Alta,Espanya,25.0,Calent,Hivern,Segon,Adultsnens,Regional
+Capó rostit amb bolets de temporada,Alta,Carn,Forn,Capó,Alta,França,27.0,Calent,Tardor,Segon,Adultsnens,Classic
+Espatlla de xai cuinada a baixa temperatura,Alta,Carn,Forn,Xai,Alta,Mediterrani,27.0,Calent,Anual,Segon,Adultsnens,Classic
+Filet de vedella a la planxa amb patata farcida de foie i salsa de vi negre,Alta,Carn,Planxa,Vedella,Alta,França,28.0,Calent,Anual,Segon,Adultsnens,Sibarita
+Garrí cuit a baixa temperatura,Alta,Carn,Forn,Garrí,Alta,Espanya,27.0,Calent,Anual,Segon,Adultsnens,Regional
+Tournedó de filet de vedella amb mini verdures,Alta,Carn,Planxa,Vedella,Alta,França,28.0,Calent,Anual,Segon,Adultsnens,Classic
+Petita mariscada de roses,Alta,Peix,Estofat,Marisc,Alta,Espanya,26.0,Fred,Estiu,Primer,Adultsnens,Sibarita
+Rap al forn amb puré de pèsols amb mantega de tòfona,Alta,Peix,Forn,Rap,Alta,Mediterrani,27.0,Calent,Hivern,Segon,Adultsnens,Sibarita
+"Ventresca de tonyina amb pèsols, tàperes i brots silvestres",Alta,Peix,Brasa,Tonyina,Alta,Mediterrani,26.0,Calent,Primavera,Segon,Adultsnens,Modern
+Suprema de llobarro amb bolets a la graella i salsa de pebrot verd i patata,Alta,Peix,Brasa,Llobarro,Alta,Mediterrani,25.0,Calent,Tardor,Segon,Adultsnens,Regional
+Solomillo de senglar jove amb poma,Alta,Carn,Forn,Senglar,Alta,Europa,28.0,Calent,Tardor,Segon,Adultsnens,Sibarita
+Carré de xai al forn amb verdures de temporada,Alta,Carn,Forn,Xai,Alta,França,27.0,Calent,Primavera,Segon,Adultsnens,Classic
+Colomí estofat amb remolatxa i maduixes silvestres,Alta,Carn,Estofat,Colomí,Alta,França,28.0,Calent,Hivern,Segon,Adultsnens,Sibarita
+Garrí confitat a baixa temperatura,Alta,Carn,Forn,Garrí,Alta,Espanya,27.0,Calent,Anual,Segon,Adultsnens,Regional
+Solomillo de vedella amb patata farcida de foie i salsa demi-glace,Alta,Carn,Planxa,Vedella,Alta,França,28.0,Calent,Anual,Segon,Adultsnens,Sibarita
+Tournedó de vedella amb mini verdures i ceps,Alta,Carn,Planxa,Vedella,Alta,França,28.0,Calent,Anual,Segon,Adultsnens,Classic
+Crema catalana amb fruits vermells,Mitjana,Vegetarià,Crema freda,Llet,Mitjana,Espanya,8.0,Fred,Anual,Postre,Adultsnens,Classic
+Calamars,Mitjana,Peix,Fregit,Calamar,Mitjana,Mediterrani,8.0,Calent,Anual,Entrant,Nens,Classic
+Croquetes,Mitjana,Carn,Fregit,Pollastre,Mitjana,Espanya,7.0,Calent,Anual,Entrant,Adultsnens,Classic
+Pa amb pernil,Baixa,Carn,Torrada,Pernil,Mitjana,Espanya,5.0,Fred,Anual,Entrant,Adultsnens,Regional
+Piruletes salades,Baixa,Vegetarià,Snack,Formatge,Baixa,Europa,4.0,Fred,Anual,Entrant,Nens,Modern
+Formatge babybel,Baixa,Vegetarià,Formatge,Llet,Baixa,França,3.0,Fred,Anual,Entrant,Nens,Classic
+Mini pizzes,Mitjana,Vegetarià,Forn,Farina,Mitjana,Itàlia,6.0,Calent,Anual,Entrant,Nens,Modern
+Entrepans variats,Baixa,Carn,Sandwich,Pernil,Mitjana,Europa,5.0,Fred,Anual,Entrant,Nens,Classic
+Escalopa de pollastre amb patates,Mitjana,Carn,Reboçat,Pollastre,Mitjana,Alemanya,8.0,Calent,Anual,Segon,Nens,Classic
+Costelles de xai amb patates,Mitjana,Carn,Brasa,Xai,Mitjana,Mediterrani,9.0,Calent,Primavera,Segon,Nens,Classic
+Hamburguesa de filet de vedella,Mitjana,Carn,Planxa,Vedella,Mitjana,Estatsunits,8.0,Calent,Anual,Segon,Nens,Modern
+Canelons casolans amb beixamel,Mitjana,Carn,Forn,Vedella,Mitjana,Espanya,8.0,Calent,Hivern,Segon,Nens,Classic
+Espaguetis a la bolonyesa,Mitjana,Carn,Pasta,Vedella,Mitjana,Itàlia,8.0,Calent,Anual,Segon,Nens,Classic
+Filet de vedella a la planxa amb patates,Mitjana,Carn,Planxa,Vedella,Mitjana,Europa,9.0,Calent,Anual,Segon,Nens,Classic
+Llom de rap a la romana amb calamars,Alta,Peix,Fregit,Rap,Mitjana,Mediterrani,9.0,Calent,Estiu,Segon,Nens,Classic
+Plat de fruites mediterrànies amb gelat de vainilla,Baixa,Vegetarià,Amanida de fruita,Fruita,Baixa,Mediterrani,5.0,Fred,Estiu,Postre,Nens,Modern
+Crema freda de porros,Mitjana,Celíac,Crema freda,Porro,Mitjana,França,7.0,Fred,Estiu,Entrant,Adultsnens,Classic
+Saltat d’espàrrecs verds,Mitjana,Celíac,Planxa,Espàrrec,Mitjana,Mediterrani,8.0,Calent,Primavera,Entrant,Adultsnens,Modern
+Bogavante a la planxa,Alta,Celíac,Planxa,Bogavante,Alta,Mediterrani,20.0,Calent,Estiu,Entrant,Adultsnens,Sibarita
+Amanida de verdures amb marisc,Mitjana,Celíac,Amanida,Marisc,Mitjana,Mediterrani,10.0,Fred,Estiu,Entrant,Adultsnens,Modern
+Rotllets de carbassó farcits de tonyina i verdures,Mitjana,Celíac,Forn,Carbassó,Mitjana,Mediterrani,9.0,Calent,Primavera,Entrant,Adultsnens,Modern
+Lluç amb vinagreta de tomàquet,Mitjana,Celíac,Forn,Lluç,Mitjana,Mediterrani,12.0,Calent,Estiu,Segon,Adultsnens,Classic
+Risotto d’espàrrecs,Alta,Celíac,Estofat,Arròs,Mitjana,Itàlia,11.0,Calent,Primavera,Segon,Adultsnens,Classic
+Broqueta de porc amb bolets,Mitjana,Celíac,Brasa,Porc,Mitjana,Mediterrani,11.0,Calent,Tardor,Segon,Adultsnens,Regional
+Llom de rap al forn amb espàrrecs,Alta,Celíac,Forn,Rap,Alta,Mediterrani,14.0,Calent,Primavera,Segon,Adultsnens,Classic
+Macedònia de fruites amb escuma de mango,Baixa,Celíac,Amanida de fruita,Fruita,Baixa,Mediterrani,6.0,Fred,Estiu,Postre,Adultsnens,Modern
+"Hummus, babaganoush, muhammara i tzatziki amb pa pita fresc",Mitjana,Halal,Crema freda,Cigrons,Mitjana,OrientMitjà,8.0,Fred,Estiu,Entrants,Adultsnens,Regional
+Broquetes de pollastre especiat halal,Mitjana,Halal,Brasa,Pollastre,Alta,Mediterrani,10.0,Calent,Estiu,Entrants,Adultsnens,Regional
+Amanida fattoush amb verdures fresques i pa cruixent,Baixa,Halal,Amanida,Enciam,Baixa,Líban,7.0,Fred,Estiu,Entrants,Adultsnens,Modern
+Falàfels amb salsa tahini,Mitjana,Halal,Fregit,Cigrons,Mitjana,OrientMitjà,9.0,Calent,Anual,Entrants,Adultsnens,Regional
+Sambousek de formatge i espinacs halal,Mitjana,Halal,Forn,Espinac,Mitjana,Líban,9.0,Calent,Primavera,Entrants,Adultsnens,Regional
+Cuscús reial amb xai i pollastre halal,Alta,Halal,Estofat,Xai,Alta,Marroc,14.0,Calent,Hivern,Segon,Adultsnens,Regional
+Tajine de pollastre amb llimona confitada i olives,Alta,Halal,Estofat,Pollastre,Alta,Marroc,13.0,Calent,Tardor,Segon,Adultsnens,Regional
+Biryani de xai tendre amb espècies autèntiques,Alta,Halal,Estofat,Xai,Alta,Àsia,14.0,Calent,Hivern,Segon,Adultsnens,Sibarita
+Filet de salmó al forn amb herbes,Mitjana,Halal,Forn,Salmó,Mitjana,Mediterrani,12.0,Calent,Primavera,Segon,Adultsnens,Classic
+Albergínies farcides (opció vegetariana halal),Mitjana,Halal,Forn,Albergínia,Mitjana,Mediterrani,10.0,Calent,Tardor,Segon,Adultsnens,Modern
+Arròs pilaf amb fruits secs,Mitjana,Halal,Estofat,Arròs,Mitjana,OrientMitjà,8.0,Calent,Hivern,Segon,Adultsnens,Classic
+Patates rostides al romaní,Baixa,Halal,Forn,Patata,Baixa,Mediterrani,6.0,Calent,Anual,Segon,Adultsnens,Classic
+Tabulé libanès,Baixa,Halal,Amanida,Bulgur,Baixa,Líban,7.0,Fred,Estiu,Segon,Adultsnens,Regional
+Verdures mediterrànies rostides,Mitjana,Halal,Forn,Verdures,Mitjana,Mediterrani,7.0,Calent,Anual,Segon,Adultsnens,Modern
+Selecció de fruites fresques,Baixa,Halal,Amanida de fruita,Fruita,Baixa,Mediterrani,6.0,Fred,Estiu,Postre,Adultsnens,Modern
+Sopa harira,Mitjana,Halal,Crema calenta,Cigrons,Mitjana,Marroc,8.0,Calent,Hivern,Entrants,Adultsnens,Regional
+Salmorejo,Baixa,Halal,Crema freda,Tomàquet,Baixa,Espanya,6.0,Fred,Estiu,Entrants,Adultsnens,Classic
+Sopa nazarí,Mitjana,Halal,Crema calenta,Verdures,Mitjana,Espanya,8.0,Calent,Hivern,Entrants,Adultsnens,Regional
+Croquetes d’espinacs i pinyons,Mitjana,Halal,Fregit,Espinacs,Mitjana,Mediterrani,9.0,Calent,Anual,Entrants,Adultsnens,Modern
+Albergínies al forn amb formatge,Mitjana,Halal,Forn,Albergínia,Mitjana,Mediterrani,9.0,Calent,Tardor,Entrants,Adultsnens,Modern
+Carbassa al forn,Baixa,Halal,Forn,Carbassa,Baixa,Mediterrani,7.0,Calent,Tardor,Entrants,Adultsnens,Classic
+Amanida d’espinacs amb formatge de cabra,Baixa,Halal,Amanida,Espinacs,Mitjana,Mediterrani,8.0,Fred,Primavera,Entrants,Adultsnens,Modern
+Amanida de cogombre i iogurt,Baixa,Halal,Amanida,Cogombre,Baixa,Líban,7.0,Fred,Estiu,Entrants,Adultsnens,Regional
+Remenat de bolets,Mitjana,Halal,Planxa,Bolets,Mitjana,Mediterrani,9.0,Calent,Tardor,Entrants,Adultsnens,Classic
+Arròs camperol amb conill,Mitjana,Halal,Estofat,Conill,Alta,Espanya,10.0,Calent,Estiu,Segon,Adultsnens,Regional
+Cuscús,Mitjana,Halal,Estofat,Sèmola,Mitjana,Marroc,9.0,Calent,Anual,Segon,Adultsnens,Regional
+Hummus,Baixa,Halal,Crema freda,Cigrons,Mitjana,Líban,8.0,Fred,Estiu,Segon,Adultsnens,Regional
+Arròs amb xai,Mitjana,Halal,Estofat,Xai,Alta,OrientMitjà,11.0,Calent,Hivern,Segon,Adultsnens,Regional
+Tallarines a la carbonara,Mitjana,Halal,Pasta,Pasta,Mitjana,Itàlia,10.0,Calent,Anual,Segon,Adultsnens,Classic
+Lasanya bolonyesa amb carbassó,Alta,Halal,Forn,Carn picada,Alta,Itàlia,11.0,Calent,Anual,Segon,Adultsnens,Classic
+Aletes de pollastre agredolces,Mitjana,Halal,Fregit,Pollastre,Alta,Àsia,10.0,Calent,Anual,Segon,Adultsnens,Modern
+Pollastre amb cacauets,Alta,Halal,Estofat,Pollastre,Alta,Àsia,11.0,Calent,Anual,Segon,Adultsnens,Modern
+Paté de fetgets de pollastre,Mitjana,Halal,Crema freda,Fetge,Mitjana,França,8.0,Fred,Anual,Segon,Adultsnens,Classic
+Llom de vedella d’orza,Alta,Halal,Estofat,Vedella,Alta,Espanya,12.0,Calent,Hivern,Segon,Adultsnens,Regional
+Pinxos moruns,Mitjana,Halal,Brasa,Xai,Mitjana,Marroc,10.0,Calent,Estiu,Segon,Adultsnens,Regional
+Rostit de xai amb mel,Alta,Halal,Forn,Xai,Alta,Marroc,13.0,Calent,Hivern,Segon,Adultsnens,Sibarita
+Pastela de pollastre i ametlles,Alta,Halal,Forn,Pollastre,Alta,Marroc,12.0,Calent,Primavera,Segon,Adultsnens,Sibarita
+Daurada a la sal,Mitjana,Halal,Forn,Daurada,Mitjana,Mediterrani,11.0,Calent,Estiu,Segon,Adultsnens,Classic
+Paté de sardines,Baixa,Halal,Crema freda,Sardina,Baixa,Mediterrani,7.0,Fred,Anual,Segon,Adultsnens,Modern
+Pebrots farcits de lluç,Mitjana,Halal,Forn,Lluç,Mitjana,Mediterrani,10.0,Calent,Primavera,Segon,Adultsnens,Classic
+Bruschetta de tomàquet i alfàbrega,Baixa,Vegà,Torrada,Tomàquet,Baixa,Itàlia,6.0,Fred,Estiu,Entrants,Adultsnens,Classic
+Lasanya d’espinacs i albergínia,Alta,Vegà,Forn,Albergínia,Mitjana,Itàlia,11.0,Calent,Anual,Segon,Adultsnens,Modern
+Paella de verdures,Mitjana,Vegà,Forn,Arròs,Mitjana,Espanya,10.0,Calent,Estiu,Segon,Adultsnens,Regional
+Risotto de bolets i tòfona,Alta,Vegà,Estofat,Arròs,Alta,Itàlia,12.0,Calent,Hivern,Segon,Adultsnens,Sibarita
+Broquetes de verdures a la graella,Baixa,Vegà,Brasa,Verdures,Baixa,Mediterrani,8.0,Calent,Estiu,Segon,Adultsnens,Classic
+Ensalada tabulé,Mitjana,Vegà,Amanida,Verdura,Mitjana,Mediterrani,6.0,Fred,Anual,Entrant,Adultsnens,Modern
+Croquetas vegetales,Mitjana,Vegà,Fregit,Verdura,Mitjana,Mediterrani,8.0,Calent,Anual,Primer,Adultsnens,Modern
+Tosta de pimientos rojos y cebolla caramelizada,Mitjana,Vegà,Tapa,Llegum,Mitjana,Mediterrani,7.0,Fred,Anual,Entrant,Adultsnens,Modern
+Ensalada de tomate y aguacate,Mitjana,Vegà,Amanida,Verdura,Mitjana,Mediterrani,6.0,Fred,Anual,Entrant,Adultsnens,Modern
+Verdura en tempura,Mitjana,Vegà,Fregit,Verdura,Mitjana,Mediterrani,8.0,Calent,Anual,Primer,Adultsnens,Modern
+Hummus con pan de pita,Mitjana,Vegà,Tapa,Llegum,Mitjana,Mediterrani,7.0,Fred,Anual,Entrant,Adultsnens,Modern
+Caldo de verdura,Mitjana,Vegà,Crema calenta,Verdura,Mitjana,Mediterrani,6.0,Calent,Anual,Entrant,Adultsnens,Modern
+Risotto de verduritas y setas,Mitjana,Vegà,Pasta,Arròs,Mitjana,Mediterrani,14.0,Calent,Anual,Segon,Adultsnens,Modern
+Vichissoyse con cebollino,Mitjana,Vegà,Crema freda,Verdura,Mitjana,Mediterrani,6.0,Fred,Anual,Entrant,Adultsnens,Modern
+Lasaña de verduras y setas con salsa de zanahoria,Mitjana,Vegà,Pasta,Pasta,Mitjana,Mediterrani,14.0,Calent,Anual,Segon,Adultsnens,Modern
+Pastel de hummus con verduras y especias con salsa de tomate,Mitjana,Vegà,Tapa,Llegum,Mitjana,Mediterrani,7.0,Fred,Anual,Entrant,Adultsnens,Modern
+Helado de café con crema de vainilla y virutas de chocolate,Mitjana,Vegà,Crema calenta,Verdura,Mitjana,Mediterrani,6.0,Calent,Anual,Entrant,Adultsnens,Modern
+Brochetas de verduras,Mitjana,Vegà,Fregit,Verdura,Mitjana,Mediterrani,8.0,Calent,Anual,Primer,Adultsnens,Modern
+Gazpacho de cereza con menta,Mitjana,Vegà,Crema freda,Verdura,Mitjana,Mediterrani,6.0,Fred,Anual,Entrant,Adultsnens,Modern
+Arroz con verduritas salteadas,Mitjana,Vegà,Pasta,Arròs,Mitjana,Mediterrani,14.0,Calent,Anual,Segon,Adultsnens,Modern
+Maki y sushi de verduras,Mitjana,Vegà,Marinat,Verdura,Mitjana,Mediterrani,10.0,Fred,Anual,Primer,Adultsnens,Modern
+Brochetas de melón y gelatina de menta,Mitjana,Vegà,Fregit,Verdura,Mitjana,Mediterrani,8.0,Calent,Anual,Primer,Adultsnens,Modern
+Tempura de trigueros con salsa de soja,Mitjana,Vegà,Fregit,Verdura,Mitjana,Mediterrani,8.0,Calent,Anual,Primer,Adultsnens,Modern
+Guacamole con triángulos de trigo,Mitjana,Vegà,Tapa,Llegum,Mitjana,Mediterrani,7.0,Fred,Anual,Entrant,Adultsnens,Modern
+Crema de guisantes al aroma de menta,Mitjana,Vegà,Crema calenta,Verdura,Mitjana,Mediterrani,6.0,Calent,Anual,Entrant,Adultsnens,Modern
+"Ensalada de quinoa, aguacate y frutos secos",Mitjana,Vegà,Amanida,Verdura,Mitjana,Mediterrani,6.0,Fred,Anual,Entrant,Adultsnens,Modern
+Pastel de achicoria con espinacas,Mitjana,Vegà,Forn,Verdura,Mitjana,Mediterrani,12.0,Calent,Anual,Segon,Adultsnens,Modern
+Llenties amb verdures sense gluten,Mitjana,Celíac,Estofat,Verdura,Mitjana,Mediterrani,6.0,Calent,Anual,Primer,Adultsnens,Clàssic
+Truita de patates sense gluten,Mitjana,Celíac,Fregit,Ou,Mitjana,Mediterrani,10.0,Calent,Anual,Segon,Adultsnens,Clàssic
+Puré de verdures o de llegums sense gluten,Mitjana,Celíac,Forn,Verdura,Mitjana,Mediterrani,6.0,Calent,Anual,Primer,Adultsnens,Clàssic
+Verdures saltades amb all o ceba sense gluten,Mitjana,Celíac,Forn,Verdura,Mitjana,Mediterrani,6.0,Calent,Anual,Primer,Adultsnens,Clàssic
+Arròs blanc o en paella sense gluten,Mitjana,Celíac,Forn,Cereal,Mitjana,Mediterrani,6.0,Calent,Anual,Primer,Adultsnens,Clàssic
+Pasta Itàlia sense gluten,Mitjana,Celíac,Pasta,Cereal,Mitjana,Mediterrani,6.0,Calent,Anual,Primer,Adultsnens,Clàssic
+Carn de vedella a la planxa sense gluten,Mitjana,Celíac,Forn,Carn,Mitjana,Mediterrani,14.0,Calent,Anual,Segon,Adultsnens,Clàssic
+Pollastre al forn sense gluten,Mitjana,Celíac,Forn,Carn,Mitjana,Mediterrani,14.0,Calent,Anual,Segon,Adultsnens,Clàssic
+Xai guisat amb verdures sense gluten,Mitjana,Celíac,Forn,Verdura,Mitjana,Mediterrani,6.0,Calent,Anual,Primer,Adultsnens,Clàssic
+Peix a la planxa sense gluten,Mitjana,Celíac,Planxa,Peix,Mitjana,Mediterrani,14.0,Calent,Anual,Segon,Adultsnens,Clàssic
+Ous ferrats sense gluten,Mitjana,Celíac,Fregit,Ou,Mitjana,Mediterrani,10.0,Calent,Anual,Segon,Adultsnens,Clàssic
+Truita francesa sense gluten,Mitjana,Celíac,Fregit,Ou,Mitjana,Mediterrani,10.0,Calent,Anual,Segon,Adultsnens,Clàssic
+Crema suau de pastanaga,baixa,"Infantil, Vegà",Verdura,Pastanaga,Suau,Mediterrani,7.25,Calent,Hivern,Entrant,Nens,Clàssic
+Sopa de fideus amb verdures,baixa,Infantil,Pasta,Fideus,Suau,Mediterrani,7.75,Calent,Hivern,Entrant,Nens,Tradicional
+Mini torradetes amb formatge i pernil,baixa,Infantil,Cereals,Pa,Suau,Mediterrani,8.0,Tebi,Anual,Entrant,Nens,Modern
+Bastonets de pastanaga i api amb hummus suau,baixa,"Infantil, Vegà",Verdura,Pastanaga,Suau,Internacional,6.5,Fred,Estiu,Entrant,Nens,Modern
+Macarrons amb tomaquet i formatge,baixa,Infantil,Pasta,Pasta,Suau,Itàlia,9.5,Calent,Anual,Principal,Nens,Clàssic
+Arros tres delicies sense soja,baixa,"Infantil, Sense-gluten",Arròs,Arròs,Suau,Àsia,10.25,Calent,Anual,Principal,Nens,Modern
+Mini hamburguesa de vedella amb formatge,baixa,Infantil,Carn,Vedella,Mitjana,Internacional,10.75,Calent,Anual,Principal,Nens,Modern
+Pollastre arrebossat amb patates forneres,baixa,Infantil,Carn,Pollastre,Mitjana,Mediterrani,11.25,Calent,Anual,Principal,Nens,Modern
+Pizza margarita petita,baixa,Infantil,Pasta,Farina,Suau,Itàlia,9.25,Calent,Anual,Principal,Nens,Modern
+Iogurt natural amb mel i fruites,baixa,Infantil,Dolços,Llet,Suau,Mediterrani,6.75,Fred,Estiu,Postres,Nens,Clàssic
+Brotxeta de fruita fresca,baixa,"Infantil, Vegà, Sense-gluten",Dolços,Fruita,Suau,Mediterrani,6.25,Fred,Estiu,Postres,Nens,Clàssic
+Mousse de xocolata suau,baixa,"Infantil, Sense-gluten",Dolços,Xocolata,Suau,Francesa,7.5,Fred,Anual,Postres,Nens,Modern
+Flam de vainilla,baixa,"Infantil, Sense-gluten",Dolços,Llet,Suau,Espanyaa,6.0,Fred,Anual,Postres,Nens,Tradicional
+Gelat de maduixa natural,baixa,"Infantil, Vegà, Sense-gluten",Dolços,Fruita,Fred,Mediterrani,5.75,Fred,Estiu,Postres,Nens,Modern
+Truita de patates amb ceba,baixa,"Infantil, Sense-gluten",Ou,Ou,Suau,Mediterrani,9.0,Calent,Anual,Principal,Nens,Clàssic
+Croquetes de pollastre suau,baixa,Infantil,Carn,Pollastre,Suau,Mediterrani,8.75,Calent,Anual,Entrant,Nens,Clàssic
+Bastonets de peix amb limoneta,baixa,Infantil,Peix,Peix,Suau,Mediterrani,9.25,Calent,Anual,Principal,Nens,Clàssic
+Puré de patata i pastanaga,baixa,"Infantil, Vegà",Verdura,Patata,Suau,Mediterrani,7.0,Calent,Hivern,Principal,Nens,Clàssic
+Sopa de pollo con fideus fins,baixa,Infantil,Carn,Pollastre,Suau,Mediterrani,7.5,Calent,Hivern,Entrant,Nens,Tradicional
+Canelons de vedella sense gluten,mitjana,"Infantil, Sense-gluten",Carn,Vedella,Mitjana,Catalana,10.5,Calent,Anual,Principal,Nens,Tradicional
+Mini pizza de pernil i formatge,baixa,Infantil,Pasta,Farina,Suau,Itàlia,9.75,Calent,Anual,Principal,Nens,Modern
+Crema de carbassa suau,baixa,"Infantil, Vegà",Verdura,Carbassa,Suau,Mediterrani,7.25,Calent,Tardor,Entrant,Nens,Clàssic
+Espaguetis amb tomaquet dolcet,baixa,Infantil,Pasta,Espaguetis,Suau,Itàlia,8.75,Calent,Anual,Principal,Nens,Clàssic
+Nuggets de pollastre casolans,baixa,Infantil,Carn,Pollastre,Mitjana,Internacional,10.25,Calent,Anual,Principal,Nens,Modern
+Risotto suau de verdures,baixa,"Infantil, Vegetarià",Arròs,Arròs,Suau,Mediterrani,9.5,Calent,Anual,Principal,Nens,Modern
+Sandvitx de formatge fos,baixa,Infantil,Cereals,Pa,Suau,Internacional,6.75,Tebi,Anual,Entrant,Nens,Modern
+Pasta farfalles amb pesto suau,baixa,"Infantil, Sense-fruits-secs",Pasta,Pasta,Suau,Itàlia,9.0,Calent,Primavera,Principal,Nens,Modern
+Ous remenats amb pernil dolç,baixa,Infantil,Ou,Ou,Suau,Mediterrani,8.5,Calent,Anual,Principal,Nens,Clàssic
+Croquetes de verdures,baixa,"Infantil, Vegà",Verdura,Verdures,Suau,Mediterrani,8.0,Calent,Anual,Entrant,Nens,Modern
+Puré de pèsols i menta,baixa,"Infantil, Vegà",Verdura,Pèsols,Suau,Mediterrani,6.75,Calent,Primavera,Entrant,Nens,Modern
+Creps de xocolata amb platan,baixa,Infantil,Dolços,Xocolata,Suau,Francesa,6.5,Fred,Anual,Postres,Nens,Modern
+Pudding de pa i poma,baixa,Infantil,Dolços,Poma,Suau,Estatsunits,6.75,Fred,Tardor,Postres,Nens,Tradicional
+Copa de iogurt i maduixes,baixa,Infantil,Dolços,Llet,Suau,Mediterrani,6.25,Fred,Estiu,Postres,Nens,Clàssic
+Galetes sense gluten amb xocolata,baixa,"Infantil, Sense-gluten",Dolços,Xocolata,Suau,Internacional,5.75,Fred,Anual,Postres,Nens,Modern
+Mini brotxeta de formatge i tomaquet,baixa,Infantil,Làctics,Formatge,Suau,Mediterrani,6.0,Fred,Anual,Entrant,Nens,Modern
+Amanida de pasta amb tomàquet i tonyina,baixa,Infantil,Tradicional,Tomàquet,mitjana,Espanya,5.27,freda,anual,Entrant,Nens,Classic
+Bastonets de pastanaga amb hummus suau,baixa,Infantil,Tradicional,Hummus,suau,Mediterrani,7.89,freda,anual,Entrant,Nens,Classic
+Mini brotxeta de formatge i tomàquet,baixa,Infantil,Mediterrania,Pollastre,mitjana,Mediterrani,7.38,freda,anual,Entrant,Nens,Classic
+Croquetes de pollastre suau,baixa,Infantil,Tradicional,Tomàquet,suau,Itàlia,6.35,freda,anual,Entrant,Nens,Modern
+Palets de formatge amb salsa suau,baixa,Infantil,Casolana,Ou,baixa,Mediterrani,8.94,freda,anual,Entrant,Nens,Modern
+Mini entrepà de pernil dolç,baixa,Infantil,Casolana,Ou,baixa,França,6.9,freda,anual,Entrant,Nens,Modern
+Amanida de pollastre i blat de moro,baixa,Infantil,Casolana,Hummus,baixa,Itàlia,7.91,freda,anual,Entrant,Nens,Classic
+Canelons freds de tonyina,baixa,Infantil,Tradicional,Formatge,baixa,Espanya,5.51,freda,anual,Entrant,Nens,Modern
+Mini truita de patates,baixa,Infantil,Casolana,Hummus,mitjana,França,05.01,freda,anual,Entrant,Nens,Classic
+Rolls de formatge i pernil dolç,baixa,Infantil,Mediterrania,Pasta,mitjana,Mediterrani,8.17,freda,anual,Entrant,Nens,Classic
+Mini pizzes de formatge,baixa,Infantil,Tradicional,Formatge,suau,Mediterrani,7.85,freda,anual,Entrant,Nens,Modern
+Crema freda de pastanaga,baixa,Infantil,Casolana,Ou,mitjana,Espanya,6.2,freda,anual,Entrant,Nens,Modern
+Amanida de fruites dolces,baixa,Infantil,Casolana,Tonyina,suau,Itàlia,6.51,freda,anual,Entrant,Nens,Classic
+Mini croquetes de tonyina,baixa,Infantil,Mediterrania,Pasta,mitjana,Espanya,7.62,freda,anual,Entrant,Nens,Modern
+Cucs de pasta amb salsa suau de tomàquet,baixa,Infantil,Tradicional,Tomàquet,suau,França,8.96,freda,anual,Entrant,Nens,Modern
+Macarrons amb formatge,baixa,Infantil,Tradicional,Carn picada,suau,Mediterrani,8.28,calenta,anual,Principal,Nens,Classic
+Arròs a la cubana,baixa,Infantil,Tradicional,Carn picada,suau,França,6.78,calenta,anual,Principal,Nens,Modern
+Canelons de pollastre,baixa,Infantil,Mediterrania,Verdures,baixa,Mediterrani,06.12,calenta,anual,Principal,Nens,Modern
+Espaguetis amb salsa suau de tomàquet,baixa,Infantil,Tradicional,Formatge,baixa,Espanya,8.7,calenta,anual,Principal,Nens,Classic
+Sopa de verdures,baixa,Infantil,Mediterrania,Peix blanc,baixa,Mediterrani,06.05,calenta,anual,Principal,Nens,Classic
+Crema de carabassa,baixa,Infantil,Casolana,Formatge,suau,Itàlia,6.7,calenta,anual,Principal,Nens,Classic
+Lasanya de pollastre,baixa,Infantil,Casolana,Carn picada,baixa,Mediterrani,9.39,calenta,anual,Principal,Nens,Modern
+Arròs amb verdures,baixa,Infantil,Tradicional,Carn picada,mitjana,Mediterrani,7.71,calenta,anual,Principal,Nens,Classic
+Fideuà infantil,baixa,Infantil,Casolana,Verdures,suau,Mediterrani,9.23,calenta,anual,Principal,Nens,Modern
+Rissotto suau de formatge,baixa,Infantil,Casolana,Macarrons,mitjana,Mediterrani,7.27,calenta,anual,Principal,Nens,Classic
+Sopa de galets amb pilota,baixa,Infantil,Casolana,Formatge,baixa,Itàlia,7.76,calenta,anual,Principal,Nens,Modern
+Macarrons gratinats amb beixamel,baixa,Infantil,Mediterrania,Pollastre,baixa,Mediterrani,6.66,calenta,anual,Principal,Nens,Classic
+Arròs tres delícies suau,baixa,Infantil,Casolana,Pollastre,baixa,Espanya,7.93,calenta,anual,Principal,Nens,Classic
+Crema de pèsols,baixa,Infantil,Tradicional,Peix blanc,mitjana,Itàlia,6.61,calenta,anual,Principal,Nens,Classic
+Fideus amb pollastre i verdura,baixa,Infantil,Mediterrania,Verdures,suau,Espanya,7.75,calenta,anual,Principal,Nens,Modern
+Mandonguilles amb tomàquet,baixa,Infantil,Casolana,Pollastre,suau,Mediterrani,12.06,calenta,anual,Segon,Nens,Modern
+Pollastre arrebossat amb patates,baixa,Infantil,Casolana,Peix blanc,suau,Itàlia,10.08,calenta,anual,Segon,Nens,Classic
+Peix arrebossat amb arròs blanc,baixa,Infantil,Casolana,Peix blanc,mitjana,França,9.7,calenta,anual,Segon,Nens,Classic
+Hamburguesa casolana amb formatge,baixa,Infantil,Casolana,Vedella,suau,Espanya,12.26,calenta,anual,Segon,Nens,Modern
+Truita de patates,baixa,Infantil,Tradicional,Pollastre,mitjana,Itàlia,11.23,calenta,anual,Segon,Nens,Modern
+Filet de pollastre a la planxa,baixa,Infantil,Casolana,Vedella,baixa,França,9.89,calenta,anual,Segon,Nens,Modern
+Llibrets de pernil i formatge,baixa,Infantil,Mediterrania,Ou,suau,Mediterrani,8.53,calenta,anual,Segon,Nens,Classic
+Nuggets de pollastre,baixa,Infantil,Casolana,Pollastre,mitjana,Mediterrani,11.23,calenta,anual,Segon,Nens,Modern
+Mini hamburgueses mixtes,baixa,Infantil,Casolana,Ou,mitjana,França,11.76,calenta,anual,Segon,Nens,Classic
+Varietat de peix suau amb patates,baixa,Infantil,Tradicional,Vedella,mitjana,Mediterrani,8.7,calenta,anual,Segon,Nens,Modern
+Iogurt amb mel,baixa,Infantil,Mediterrania,Iogurt,mitjana,Itàlia,4.87,freda,anual,Postres,Nens,Classic
+Gelat de vainilla,baixa,Infantil,Tradicional,Gelat,baixa,Mediterrani,3.45,freda,anual,Postres,Nens,Classic
+Macedònia de fruites,baixa,Infantil,Tradicional,Fruita,suau,Itàlia,3.31,freda,anual,Postres,Nens,Classic
+Galetes amb xocolata,baixa,Infantil,Mediterrania,Pastís,baixa,Mediterrani,6.17,freda,anual,Postres,Nens,Modern
+Mousse de xocolata suau,baixa,Infantil,Tradicional,Gelat,mitjana,Espanya,5.8,freda,anual,Postres,Nens,Classic
+Poma al forn amb canyella,baixa,Infantil,Tradicional,Iogurt,baixa,França,6.3,freda,anual,Postres,Nens,Modern
+Pastís de formatge,baixa,Infantil,Casolana,Iogurt,baixa,Mediterrani,4.42,freda,anual,Postres,Nens,Classic
+Flam de vainilla,baixa,Infantil,Mediterrania,Gelat,mitjana,Itàlia,3.5,freda,anual,Postres,Nens,Modern
+Iogurt amb melmelada,baixa,Infantil,Casolana,Gelat,mitjana,Itàlia,5.87,freda,anual,Postres,Nens,Modern
+Gelatina de fruita,baixa,Infantil,Mediterrania,Pastís,mitjana,França,3.41,freda,anual,Postres,Nens,Modern
+Macarrons amb Tomàquet Suau,Baixa,"Infantil, Vegetarià",Pasta,Pasta,Baixa,Mediterrani,8.00,Calent,Anual,Principal,Nens,Clàssic
+Nuggets de Pollastre Halal amb Patates,Baixa,"Infantil, Halal",Carn,Pollastre,Baixa,Internacional,9.50,Calent,Anual,Principal,Nens,Modern
+Hamburguesa Vegana amb Pa Sense-gluten,Mitjana,"Infantil, Vegà, Sense-gluten",Verdura,Llegums,Mitjana,Internacional,10.00,Calent,Anual,Principal,Nens,Modern
+Mini Pizza de Formatge Sense-lactosa,Mitjana,"Infantil, Sense-lactosa",Cereal,Formatge,Mitjana,Italià,8.75,Calent,Estiu,Principal,Nens,Clàssic
+Croquetes de Pollastre Sense-gluten,Mitjana,"Infantil, Sense-gluten",Carn,Pollastre,Mitjana,Mediterrani,9.25,Calent,Anual,Entrant,Nens,Clàssic
+Flam de Vainilla Sense-lactosa,Baixa,"Infantil, Sense-lactosa",Postres,Llet,Baixa,Internacional,5.50,Fred,Anual,Postres,Nens,Clàssic
+Mini hamburguesa de pollastre amb formatge,Baixa,Infantil,Carn,Pollastre,Baixa,Internacional,9.5,Calent,Anual,Principal,Nens,
+Bastons de lluç arrebossat amb patates al forn,Baixa,Infantil,Peix,Lluç,Baixa,Mediterrani,11.25,Calent,Anual,Principal,Nens,
+Arròs tres delícies suau (sense soja),Baixa,"Infantil, Sense-gluten",Arròs,Arròs,Baixa,Àsia,10.25,Calent,Anual,Principal,Nens,
+Crema de carbassa dolceta,Baixa,"Infantil, Vegà",Verdura,Carbassa,Baixa,Mediterrani,7.5,Calent,Tardor,Entrant,Nens,Sibarita
+Amanida de pollastre i blat de moro,Baixa,Infantil,Carn,Pollastre,Baixa,Internacional,8.25,Fred,Primavera,Entrant,Nens,Modern
+Iogurt natural amb mel i gerds,Baixa,Infantil,Postres,Iogurt,Baixa,Mediterrani,5.25,Fred,Anual,Postres,Nens,Modern
+Brownie de xocolata amb nous (sense gelatina),Baixa,Infantil,Postres,Xocolata,Mitjana,Americà,06.05,Tebi,Anual,Postres,Nens,Sibarita
+Hamburguesa casolana amb formatge suau,Baixa,Omnívor,Carn,Porc,Baixa,Mediterrani,9.5,Calent,Anual,Segon,Nens,Clàssic
+Nuggets de pollastre amb patates al forn,Baixa,Omnívor,Carn,Pollastre,Mitjana,Americà,8.5,Calent,Anual,Segon,Nens,Modern
+Macarrons amb salsa de tomàquet i formatge,Baixa,Vegetariana,Pasta,Tomàquet,Mitjana,Italià,7.5,Calent,Anual,Segon,Nens,Clàssic
+Filet de lluç arrebossat amb arròs,Baixa,Omnívor,Peix,Lluç,Mitjana,Mediterrani,8.75,Calent,Primavera,Segon,Nens,Modern
+Truita de patates amb pa torrat,Baixa,Vegetariana,Ous,Ou,Mitjana,Mediterrani,6.5,Calent,Anual,Segon,Nens,Regional
+Mini hamburguesa de wagyu amb ceba caramel·litzada,Mitjana,Carn,Forn,Vedella wagyu,Alta,Japó,7.52,Calent,Anual,Entrant,Nens,
+Gelat de vainilla,Baixa,Vegetarià,Llegum,Fruita,Mitjana,Nordic,6.19,Fred,Primavera,Postres,AdultsNens,Modern
+Iogurt amb mel,Mitjana,Vegetarià,Peix,Fruita,Alta,Àsia,7.85,Fred,Estiu,Postres,AdultsNens,Clàssic
+Fruita tallada amb mel,Mitjana,Vegetarià,Llegum,Fruita,Alta,Nordic,5.67,Fred,Tardor,Postres,AdultsNens,Clàssic
+Crema catalana suau,Baixa,Vegetarià,Verdures,Fruita,Alta,França,4.36,Fred,Tardor,Postres,AdultsNens,Regional
+ca,Mitjana,Sense-fruits-secs,Llegum,Verdures,Suau,Mediterrani,9.26,Fred,Primavera,Entrant,AdultsNens,Regional
+Crema de carabassa,Alta,Sense-fruits-secs,Fruita,Verdures,Suau,Mediterrani,8.51,Fred,Anual,Entrant,AdultsNens,Regional
+Sopa d’arròs i verdures,Baixa,Sense-fruits-secs,Llegum,Verdures,Mitjana,Italià,6.23,Fred,Primavera,Entrant,AdultsNens,Clàssic
+Canelons de ricotta sense fruits secs,Baixa,Sense-fruits-secs,Carn,Verdures,Mitjana,Àsia,8.29,Fred,Anual,Entrant,AdultsNens,Sibarita
+Amanida de cigrons,Baixa,Sense-fruits-secs,Peix,Verdures,Alta,França,9.56,Fred,Primavera,Entrant,AdultsNens,Regional
+Arròs amb pollastre i verdures,Baixa,Sense-fruits-secs,Fruita,Cereal,Suau,Nordic,10.27,Calent,Tardor,Principal,AdultsNens,Clàssic
+Macarrons amb tomàquet i albahaca,Mitjana,Sense-fruits-secs,Fruita,Cereal,Alta,Italià,11.37,Calent,Anual,Principal,AdultsNens,Modern
+Lasanya de carn suau,Alta,Sense-fruits-secs,Fruita,Cereal,Alta,Nordic,12.92,Calent,Primavera,Principal,AdultsNens,Modern
+Fideus amb verdures,Alta,Sense-fruits-secs,Verdures,Cereal,Suau,OrientMitjà,12.85,Calent,Primavera,Principal,AdultsNens,Modern
+Couscous de pollastre,Mitjana,Sense-fruits-secs,Carn,Cereal,Alta,França,11.34,Calent,Estiu,Principal,AdultsNens,Sibarita
+Pollastre al forn amb patates,Alta,Sense-fruits-secs,Carn,Carn,Suau,Àsia,13.27,Calent,Hivern,Segon,AdultsNens,Clàssic
+Filet de peix amb arròs,Baixa,Sense-fruits-secs,Carn,Carn,Suau,Àsia,16.31,Calent,Anual,Segon,AdultsNens,Clàssic
+Mandonguilles amb tomàquet,Mitjana,Sense-fruits-secs,Cereal,Carn,Suau,Italià,17.38,Calent,Tardor,Segon,AdultsNens,Regional
+Truita d’espinacs,Baixa,Sense-fruits-secs,Peix,Carn,Mitjana,Àsia,15.73,Calent,Estiu,Segon,AdultsNens,Modern
+Carn arrebossada amb llimona,Alta,Sense-fruits-secs,Verdures,Carn,Suau,Mediterrani,15.15,Calent,Estiu,Segon,AdultsNens,Regional
+Flam de vainilla,Alta,Sense-fruits-secs,Cereal,Fruita,Mitjana,Nordic,6.63,Fred,Hivern,Postres,AdultsNens,Modern
+Iogurt amb fruita,Mitjana,Sense-fruits-secs,Verdures,Fruita,Mitjana,Italià,7.77,Fred,Primavera,Postres,AdultsNens,Clàssic
+Fruita de temporada,Baixa,Sense-fruits-secs,Carn,Fruita,Mitjana,França,8.0,Fred,Tardor,Postres,AdultsNens,Sibarita
+Macedònia natural,Baixa,Sense-fruits-secs,Peix,Fruita,Alta,Italià,5.84,Fred,Tardor,Postres,AdultsNens,Sibarita
+Gelat de maduixa,Mitjana,Sense-fruits-secs,Verdures,Fruita,Alta,Nordic,07.07,Fred,Estiu,Postres,AdultsNens,Sibarita
+Amanida de Cuscús amb Pollastre Halal,Baixa,Halal,Fruita,Pollastre,Alta,Mediterrani,11.74,Fred,Hivern,Entrant,AdultsNens,Modern
+Broquetes de Pollastre Halal amb Salsa de Iogurt,Baixa,Halal,Carn,Tonyina,Alta,Àrab,9.98,Fred,Hivern,Entrant,AdultsNens,Modern
+Hummus amb Pa de Pita Halal,Baixa,Halal,Carn,Cigrons,Mitjana,Mediterrani,9.19,Fred,Estiu,Entrant,AdultsNens,Modern
+Crema freda de Pastanaga i Cigrons Halal,Baixa,Halal,Cereal,Cuscús,Suau,OrientMitjà,11.46,Fred,Tardor,Entrant,AdultsNens,Clàssic
+Timbal de Verdures amb Espècies Halal,Baixa,Halal,Peix,Pollastre,Mitjana,Àrab,10.22,Fred,Estiu,Entrant,AdultsNens,Regional
+Arròs amb Verdures i Pollastre Halal,Alta,Halal,Fruita,Verdures,Suau,OrientMitjà,11.0,Calent,Anual,Principal,AdultsNens,Clàssic
+Sopa de Llenties Halal,Alta,Halal,Verdures,Arròs,Alta,OrientMitjà,12.61,Calent,Primavera,Principal,AdultsNens,Sibarita
+Tallarins amb Verdura i Pollastre Halal,Baixa,Halal,Fruita,Arròs,Alta,Mediterrani,12.38,Calent,Primavera,Principal,AdultsNens,Modern
+Crema de Carabassa amb Espècies Halal,Baixa,Halal,Llegum,Pasta,Suau,OrientMitjà,12.16,Calent,Estiu,Principal,AdultsNens,Modern
+Cigrons estofats amb Espinacs Halal,Mitjana,Halal,Cereal,Pasta,Suau,OrientMitjà,14.47,Calent,Anual,Principal,AdultsNens,Sibarita
+Pollastre al Curri Suau Halal,Alta,Halal,Cereal,Xai,Suau,Marroc,21.34,Calent,Primavera,Segon,AdultsNens,Regional
+Xai al Forn amb Herbes Halal,Baixa,Halal,Llegum,Vedella,Mitjana,Mediterrani,16.57,Calent,Primavera,Segon,AdultsNens,Modern
+Filet de Vedella Halal amb Couscous,Alta,Halal,Fruita,Peix blanc,Suau,OrientMitjà,16.34,Calent,Anual,Segon,AdultsNens,Clàssic
+Peix Blanc a la Planxa Halal,Mitjana,Halal,Peix,Xai,Alta,OrientMitjà,18.04,Calent,Estiu,Segon,AdultsNens,Sibarita
+Broquetes de Xai amb Espècies Halal,Baixa,Halal,Fruita,Peix blanc,Alta,OrientMitjà,16.26,Calent,Estiu,Segon,AdultsNens,Regional
+Mousse de Dàtils amb Mel Halal,Alta,Halal,Fruita,Mel,Mitjana,OrientMitjà,7.4,Fred,Hivern,Postres,AdultsNens,Clàssic
+Pastís de Iogurt amb Mel i Nous Halal,Baixa,Halal,Cereal,Fruits secs,Suau,OrientMitjà,7.86,Fred,Primavera,Postres,AdultsNens,Sibarita
+Gelatina de Mango Halal,Alta,Halal,Cereal,Mel,Mitjana,Marroc,6.92,Fred,Anual,Postres,AdultsNens,Regional
+Fruites Fresques amb Xarop de Dàtils Halal,Baixa,Halal,Fruita,Iogurt,Suau,OrientMitjà,6.57,Fred,Estiu,Postres,AdultsNens,Clàssic
+Cremós de Llet amb Mel Halal,Alta,Halal,Peix,Fruita,Alta,Mediterrani,6.61,Fred,Estiu,Postres,AdultsNens,Modern
+Crema de carbassó suau sense lactosa,Mitjana,Sense-lactosa,Verdures,Verdures,Mitjana,Mediterrani,8.39,Fred,Estiu,Entrant,AdultsNens,Modern
+Amanida de quinoa amb tomàquet,Mitjana,Sense-lactosa,Fruita,Verdures,Suau,França,6.32,Fred,Primavera,Entrant,AdultsNens,Modern
+Gazpatxo de préssec sense lactosa,Alta,Sense-lactosa,Llegum,Verdures,Mitjana,Italià,09.06,Fred,Estiu,Entrant,AdultsNens,Sibarita
+Sopa freda de cogombre,Alta,Sense-lactosa,Peix,Verdures,Suau,OrientMitjà,08.06,Fred,Tardor,Entrant,AdultsNens,Regional
+Timbal de verdures sense lactosa,Baixa,Sense-lactosa,Fruita,Verdures,Suau,Àsia,8.44,Fred,Anual,Entrant,AdultsNens,Modern
+Arròs integral amb verdures,Alta,Sense-lactosa,Carn,Cereal,Alta,Àsia,12.35,Calent,Anual,Principal,AdultsNens,Sibarita
+Fideus d’arròs amb tofu,Mitjana,Sense-lactosa,Verdures,Cereal,Mitjana,França,11.1,Calent,Anual,Principal,AdultsNens,Modern
+Macarrons de blat sarraí,Alta,Sense-lactosa,Fruita,Cereal,Alta,Àsia,12.59,Calent,Estiu,Principal,AdultsNens,Modern
+Crema de pèsols sense lactosa,Baixa,Sense-lactosa,Llegum,Cereal,Alta,Àsia,10.11,Calent,Anual,Principal,AdultsNens,Regional
+Lasanya vegetal sense lactosa,Alta,Sense-lactosa,Fruita,Cereal,Mitjana,Italià,10.4,Calent,Tardor,Principal,AdultsNens,Clàssic
+Pollastre a la planxa amb herbes,Mitjana,Sense-lactosa,Verdures,Carn,Alta,Àsia,14.98,Calent,Tardor,Segon,AdultsNens,Sibarita
+Peix blanc al forn amb llimona,Baixa,Sense-lactosa,Carn,Carn,Mitjana,Mediterrani,19.71,Calent,Anual,Segon,AdultsNens,Sibarita
+Xai estofat amb verdures,Baixa,Sense-lactosa,Carn,Carn,Alta,Mediterrani,17.32,Calent,Hivern,Segon,AdultsNens,Clàssic
+Filet de lluç amb arròs basmati,Mitjana,Sense-lactosa,Verdures,Carn,Mitjana,França,17.16,Calent,Hivern,Segon,AdultsNens,Sibarita
+Tofu marinat amb sèsam,Baixa,Sense-lactosa,Cereal,Carn,Mitjana,Nordic,16.04,Calent,Hivern,Segon,AdultsNens,Regional
+Fruita fresca amb mel,Alta,Sense-lactosa,Carn,Fruita,Suau,Àsia,5.38,Fred,Anual,Postres,AdultsNens,Clàssic
+Mousse de xocolata sense lactosa,Mitjana,Sense-lactosa,Verdures,Fruita,Suau,Mediterrani,8.9,Fred,Hivern,Postres,AdultsNens,Modern
+Gelat de mango sense lactosa,Alta,Sense-lactosa,Cereal,Fruita,Suau,Mediterrani,6.91,Fred,Hivern,Postres,AdultsNens,Sibarita
+Poma al forn amb canyella,Mitjana,Sense-lactosa,Carn,Fruita,Mitjana,OrientMitjà,8.79,Fred,Primavera,Postres,AdultsNens,Sibarita
+Copa de iogurt vegetal amb maduixes,Mitjana,Sense-lactosa,Llegum,Fruita,Mitjana,Mediterrani,6.59,Fred,Primavera,Postres,AdultsNens,Clàssic
+Hummus amb bastonets de pastanaga,Mitjana,Vegà,Fruita,Verdures,Alta,Àsia,7.6,Fred,Anual,Entrant,AdultsNens,Modern
+Amanida de llenties amb ceba i menta,Baixa,Vegà,Cereal,Verdures,Mitjana,Italià,7.32,Fred,Hivern,Entrant,AdultsNens,Modern
+Crema freda de pastanaga,Baixa,Vegà,Cereal,Verdures,Mitjana,Àsia,5.38,Fred,Hivern,Entrant,AdultsNens,Sibarita
+Sopa miso amb tofu,Alta,Vegà,Fruita,Verdures,Mitjana,OrientMitjà,6.41,Fred,Estiu,Entrant,AdultsNens,Regional
+Canelons de verdures vegans,Mitjana,Vegà,Peix,Verdures,Suau,Mediterrani,5.83,Fred,Anual,Entrant,AdultsNens,Clàssic
+Arròs amb cigrons i espinacs,Alta,Vegà,Peix,Cereal,Alta,Mediterrani,10.74,Calent,Estiu,Principal,AdultsNens,Sibarita
+Fideus soba amb verdures,Mitjana,Vegà,Cereal,Cereal,Suau,Nordic,11.43,Calent,Tardor,Principal,AdultsNens,Regional
+Risotto vegetal amb carabassa,Alta,Vegà,Fruita,Cereal,Mitjana,França,9.74,Calent,Tardor,Principal,AdultsNens,Clàssic
+Curry de tofu amb arròs,Mitjana,Vegà,Llegum,Cereal,Suau,Mediterrani,10.45,Calent,Primavera,Principal,AdultsNens,Clàssic
+Couscous amb hortalisses,Alta,Vegà,Verdures,Cereal,Mitjana,OrientMitjà,11.13,Calent,Estiu,Principal,AdultsNens,Regional
+Hamburguesa vegana de llenties,Baixa,Vegà,Verdures,Carn,Suau,Mediterrani,11.42,Calent,Primavera,Segon,AdultsNens,Regional
+Estofat de seità amb xampinyons,Alta,Vegà,Peix,Carn,Mitjana,Mediterrani,10.88,Calent,Anual,Segon,AdultsNens,Sibarita
+Tofu arrebossat amb salsa suau,Mitjana,Vegà,Verdures,Carn,Suau,OrientMitjà,14.22,Calent,Estiu,Segon,AdultsNens,Clàssic
+Fajita vegetal amb alvocat,Alta,Vegà,Carn,Carn,Alta,OrientMitjà,13.03,Calent,Tardor,Segon,AdultsNens,Sibarita
+Cigrons al curri,Alta,Vegà,Cereal,Carn,Mitjana,Mediterrani,11.02,Calent,Estiu,Segon,AdultsNens,Clàssic
+Pudding de coco i xia,Mitjana,Vegà,Peix,Fruita,Alta,Àsia,4.36,Fred,Hivern,Postres,AdultsNens,Regional
+Macedònia de fruites amb melassa,Alta,Vegà,Cereal,Fruita,Suau,França,7.84,Fred,Estiu,Postres,AdultsNens,Modern
+Pastís vegà de xocolata,Baixa,Vegà,Cereal,Fruita,Suau,Italià,5.25,Fred,Hivern,Postres,AdultsNens,Clàssic
+Mousse de mango,Alta,Vegà,Fruita,Fruita,Suau,Àsia,7.23,Fred,Hivern,Postres,AdultsNens,Regional
+Flam vegetal de vainilla,Alta,Vegà,Peix,Fruita,Mitjana,Mediterrani,7.8,Fred,Primavera,Postres,AdultsNens,Regional
+Amanida caprese amb tofu,Alta,Vegetarià,Carn,Verdures,Suau,Nordic,7.9,Fred,Primavera,Entrant,AdultsNens,Sibarita
+Crema de pèsols amb menta,Alta,Vegetarià,Llegum,Verdures,Mitjana,Àsia,7.71,Fred,Hivern,Entrant,AdultsNens,Sibarita
+Sopa de verdures suau,Mitjana,Vegetarià,Llegum,Verdures,Mitjana,OrientMitjà,8.44,Fred,Estiu,Entrant,AdultsNens,Sibarita
+Canelons d’espinacs,Mitjana,Vegetarià,Carn,Verdures,Suau,Mediterrani,6.97,Fred,Estiu,Entrant,AdultsNens,Modern
+Gaspatxo tradicional,Alta,Vegetarià,Llegum,Verdures,Alta,Àsia,8.48,Fred,Estiu,Entrant,AdultsNens,Regional
+Arròs amb formatge i espinacs,Baixa,Vegetarià,Cereal,Cereal,Suau,França,10.8,Calent,Tardor,Principal,AdultsNens,Clàssic
+Fideus integrals amb verdures,Alta,Vegetarià,Fruita,Cereal,Alta,Mediterrani,9.17,Calent,Hivern,Principal,AdultsNens,Sibarita
+Lasanya d’albergínia,Mitjana,Vegetarià,Carn,Cereal,Alta,Mediterrani,10.0,Calent,Primavera,Principal,AdultsNens,Sibarita
+Risotto de bolets,Baixa,Vegetarià,Fruita,Cereal,Suau,OrientMitjà,11.01,Calent,Primavera,Principal,AdultsNens,Regional
+Cigrons amb verdures,Alta,Vegetarià,Verdures,Cereal,Suau,Mediterrani,11.61,Calent,Primavera,Principal,AdultsNens,Regional
+Truita de patates i ceba,Mitjana,Vegetarià,Peix,Carn,Suau,Mediterrani,12.3,Calent,Hivern,Segon,AdultsNens,Clàssic
+Hamburguesa vegetal amb formatge,Alta,Vegetarià,Fruita,Carn,Alta,Italià,14.84,Calent,Primavera,Segon,AdultsNens,Modern
+Pizza vegetal,Mitjana,Vegetarià,Cereal,Carn,Suau,Mediterrani,13.54,Calent,Anual,Segon,AdultsNens,Sibarita
+Ous farcits amb verdures,Baixa,Vegetarià,Llegum,Carn,Mitjana,Italià,15.78,Calent,Hivern,Segon,AdultsNens,Modern
+Mandonguilles de verdures,Alta,Vegetarià,Verdures,Carn,Suau,Nordic,10.57,Calent,Tardor,Segon,AdultsNens,Sibarita
+Pastís de formatge,Alta,Vegetarià,Llegum,Fruita,Alta,Mediterrani,4.32,Fred,Estiu,Postres,AdultsNens,Sibarita
+Gelat de vainilla,Baixa,Vegetarià,Llegum,Fruita,Mitjana,Nordic,6.19,Fred,Primavera,Postres,AdultsNens,Modern
+Iogurt amb mel,Mitjana,Vegetarià,Peix,Fruita,Alta,Àsia,7.85,Fred,Estiu,Postres,AdultsNens,Clàssic
+Fruita tallada amb mel,Mitjana,Vegetarià,Llegum,Fruita,Alta,Nordic,5.67,Fred,Tardor,Postres,AdultsNens,Clàssic
+Crema catalana suau,Baixa,Vegetarià,Verdures,Fruita,Alta,França,4.36,Fred,Tardor,Postres,AdultsNens,Regional
+Crema de carabassa,Alta,Sense-fruits-secs,Fruita,Verdures,Suau,Mediterrani,8.51,Fred,Anual,Entrant,AdultsNens,Regional
+Sopa d’arròs i verdures,Baixa,Sense-fruits-secs,Llegum,Verdures,Mitjana,Italià,6.23,Fred,Primavera,Entrant,AdultsNens,Clàssic
+Canelons de ricotta sense fruits secs,Baixa,Sense-fruits-secs,Carn,Verdures,Mitjana,Àsia,8.29,Fred,Anual,Entrant,AdultsNens,Sibarita
+Amanida de cigrons,Baixa,Sense-fruits-secs,Peix,Verdures,Alta,França,9.56,Fred,Primavera,Entrant,AdultsNens,Regional
+Arròs amb pollastre i verdures,Baixa,Sense-fruits-secs,Fruita,Cereal,Suau,Nordic,10.27,Calent,Tardor,Principal,AdultsNens,Clàssic
+Macarrons amb tomàquet i albahaca,Mitjana,Sense-fruits-secs,Fruita,Cereal,Alta,Italià,11.37,Calent,Anual,Principal,AdultsNens,Modern
+Lasanya de carn suau,Alta,Sense-fruits-secs,Fruita,Cereal,Alta,Nordic,12.92,Calent,Primavera,Principal,AdultsNens,Modern
+Fideus amb verdures,Alta,Sense-fruits-secs,Verdures,Cereal,Suau,OrientMitjà,12.85,Calent,Primavera,Principal,AdultsNens,Modern
+Couscous de pollastre,Mitjana,Sense-fruits-secs,Carn,Cereal,Alta,França,11.34,Calent,Estiu,Principal,AdultsNens,Sibarita
+Pollastre al forn amb patates,Alta,Sense-fruits-secs,Carn,Carn,Suau,Àsia,13.27,Calent,Hivern,Segon,AdultsNens,Clàssic
+Filet de peix amb arròs,Baixa,Sense-fruits-secs,Carn,Carn,Suau,Àsia,16.31,Calent,Anual,Segon,AdultsNens,Clàssic
+Mandonguilles amb tomàquet,Mitjana,Sense-fruits-secs,Cereal,Carn,Suau,Italià,17.38,Calent,Tardor,Segon,AdultsNens,Regional
+Truita d’espinacs,Baixa,Sense-fruits-secs,Peix,Carn,Mitjana,Àsia,15.73,Calent,Estiu,Segon,AdultsNens,Modern
+Carn arrebossada amb llimona,Alta,Sense-fruits-secs,Verdures,Carn,Suau,Mediterrani,15.15,Calent,Estiu,Segon,AdultsNens,Regional
+Flam de vainilla,Alta,Sense-fruits-secs,Cereal,Fruita,Mitjana,Nordic,6.63,Fred,Hivern,Postres,AdultsNens,Modern
+Iogurt amb fruita,Mitjana,Sense-fruits-secs,Verdures,Fruita,Mitjana,Italià,7.77,Fred,Primavera,Postres,AdultsNens,Clàssic
+Fruita de temporada,Baixa,Sense-fruits-secs,Carn,Fruita,Mitjana,França,8.0,Fred,Tardor,Postres,AdultsNens,Sibarita
+Macedònia natural,Baixa,Sense-fruits-secs,Peix,Fruita,Alta,Italià,5.84,Fred,Tardor,Postres,AdultsNens,Sibarita
+Gelat de maduixa,Mitjana,Sense-fruits-secs,Verdures,Fruita,Alta,Nordic,07.07,Fred,Estiu,Postres,AdultsNens,Sibarita
+LlomDePorcAmbPomesSenseGluten,Mitjana,Sense-gluten,Carn,Porc,Mitjà,Mediterrani,16.75,Calent,Anual,Segon,AdultsNens,Clàssic
+PollastreAmbLlimonaSenseGluten,Baixa,Sense-gluten,Carn,Pollastre,Suau,Mediterrani,15.25,Calent,Primavera,Segon,AdultsNens,Clàssic
+LluçAmbVerduresSenseGluten,Mitjana,Sense-gluten,Peix,Lluç,Suau,Mediterrani,17.50,Calent,Anual,Segon,AdultsNens,Modern
+TofuGrilleAmbSalsaTamariSenseGluten,Baixa,Sense-gluten,Vegetal,Tofu,Suau,Japonesa,14.00,Calent,Anual,Segon,AdultsNens,Modern
+FiletDeVedellaAmbSalsaDeViSenseGluten,Alta,Sense-gluten,Carn,Vedella,Intens,Catalana,21.50,Calent,Hivern,Segon,AdultsNens,Sibarita
+BacallaAmbCremaDePorrosSenseGluten,Mitjana,Sense-gluten,Peix,Bacallà,Mitjà,Mediterrani,18.50,Calent,Tardor,Segon,AdultsNens,Clàssic
+MagretDAnecAmbFruitsDelBoscSenseGluten,Alta,Sense-gluten,Carn,Ànec,Intens,França,22.75,Calent,Hivern,Segon,AdultsNens,Sibarita
+HamburguesaDeCigronsISpinaquesSenseGluten,Baixa,Sense-gluten,Vegetal,Cigrons,Suau,Àsia,12.50,Calent,Primavera,Segon,AdultsNens,Modern
+OradaAlFornAmbHerbesSenseGluten,Mitjana,Sense-gluten,Peix,Orada,Mitjà,Mediterrani,19.00,Calent,Anual,Segon,AdultsNens,Regional
+MandonguillesDePollastreAmbTomàquetSenseGluten,Baixa,Sense-gluten,Carn,Pollastre,Mitjà,Espanya,13.25,Calent,Anual,Segon,Nens,Clàssic
+CheesecakeDeNabiusSenseGluten,Mitjana,Sense-gluten,Dolços,Nabius,Suau,Americana,8.25,Fred,Anual,Postres,AdultsNens,Modern
+BrownieSenseGluten,Mitjana,Sense-gluten,Dolços,Xocolata,Intens,Americana,8.25,Fred,Anual,Postres,AdultsNens,Modern
+MousseDeLlimonaSenseGluten,Baixa,Sense-gluten,Dolços,Llimona,Suau,Mediterrani,6.75,Fred,Estiu,Postres,AdultsNens,Clàssic
+SorbetDeMangoSenseGluten,Baixa,Sense-gluten,Dolços,Mango,Suau,OrientMitjà,5.50,Fred,Estiu,Postres,AdultsNens,Modern
+FlamDeVainillaSenseGluten,Baixa,Sense-gluten,Dolços,Vainilla,Suau,Espanyaa,5.75,Fred,Anual,Postres,AdultsNens,Clàssic
+GelatDeCocoSenseGluten,Baixa,Sense-gluten,Dolços,Coco,Suau,OrientMitjà,5.25,Fred,Estiu,Postres,AdultsNens,Modern
+CoulantDeXocolataSenseGluten,Alta,Sense-gluten,Dolços,Xocolata,Intens,França,8.75,Calent,Hivern,Postres,AdultsNens,Sibarita
+CremaCatalanaSenseGluten,Mitjana,Sense-gluten,Dolços,Llet,Mitjà,Mediterrani,6.25,Fred,Primavera,Postres,AdultsNens,Regional
+PannaCottaAmbFruitsVermellsSenseGluten,Mitjana,Sense-gluten,Dolços,Nata,Suau,Itàlia,7.50,Fred,Anual,Postres,AdultsNens,Clàssic
+MacedoniaDeFruitesFresquesSenseGluten,Baixa,Sense-gluten,Dolços,Fruita,Suau,Mediterrani,4.75,Fred,Primavera,Postres,AdultsNens,Regional
+Gaspatxo de síndria i menta,Baixa,"Vegà, Sense-gluten",Verdura,Síndria,Suau,Mediterrani,7.50,Fred,Estiu,Entrant,AdultsNens,Modern
+Amanida caprese amb tomàquet i mozzarella,Mitjana,"Vegetarià, Sense-fruits-secs",Verdura,Tomàquet,Suau,Itàlia,9.00,Fred,Estiu,Entrant,AdultsNens,Classic
+Caneló d’albergínia amb verdures,Baixa,"Vegà, Sense-lactosa, Sense-gluten",Verdura,Albergínia,Mitjana,Mediterrani,10.50,Calent,Tardor,Entrant,AdultsNens,Modern
+Amanida de cigrons amb verdures i coriandre,Baixa,"Vegà, Sense-gluten",Llegum,Cigrons,Suau,Mediterrani,8.25,Fred,Primavera,Entrant,AdultsNens,Regional
+Tàrtar de salmó amb alvocat i llima,Mitjana,"Omnívor, Sense-gluten",Peix,Salmó,Mitjana,Internacional,14.25,Fred,Primavera,Entrant,AdultsNens,Sibarita
+Crema de coliflor amb tòfona,Baixa,"Vegetarià, Sense-gluten",Verdura,Coliflor,Suau,França,9.50,Calent,Hivern,Entrant,AdultsNens,Sibarita
+Bruschetta de bolets i formatge de cabra,Baixa,"Vegetarià, Sense-fruits-secs",Pasta,Bolets,Mitjana,Itàlia,9.00,Calent,Tardor,Entrant,AdultsNens,Classic
+Croquetes de pernil ibèric,Mitjana,Omnívor,Carn,Pernil,Mitjana,Espanya,8.75,Calent,Anual,Entrant,AdultsNens,Regional
+Mini broquetes de pollastre marinat amb herbes,Mitjana,"Halal, Sense-lactosa",Carn,Pollastre,Mitjana,Mediterrani,10.25,Calent,Anual,Entrant,AdultsNens,Regional
+Hummus de remolatxa amb palets de pastanaga,Baixa,"Vegà, Sense-gluten",Verdura,Remolatxa,Suau,OrientMitjà,7.25,Fred,Primavera,Entrant,AdultsNens,Modern
+Amanida de quinoa amb alvocat i mango,Baixa,"Vegà, Sense-gluten",Verdura,Quinoa,Suau,Mediterrani,9.00,Fred,Estiu,Entrant,AdultsNens,Modern
+Crema suau de pèsols i menta,Baixa,"Vegà, Sense-lactosa, Sense-gluten",Verdura,Pèsols,Suau,Mediterrani,8.50,Calent,Hivern,Entrant,AdultsNens,Classic
+Carpaccio de tomàquet amb formatge fresc i alfàbrega,Mitjana,"Vegetarià, Sense-fruits-secs",Verdura,Tomàquet,Suau,Itàlia,9.25,Fred,Estiu,Entrant,AdultsNens,Classic
+Hummus de llenties vermelles amb crudités,Baixa,"Vegà, Sense-gluten",Llegum,Llenties,Suau,OrientMitjà,7.50,Fred,Anual,Entrant,AdultsNens,Regional
+Croquetes de bacallà amb all i julivert,Mitjana,"Omnívor, Sense-fruits-secs",Peix,Bacallà,Mitjana,Mediterrani,10.25,Calent,Tardor,Entrant,AdultsNens,Regional
+Amanida de pollastre halal amb couscous i llimona,Mitjana,Halal,Carn,Pollastre,Mitjana,Mediterrani,12.50,Fred,Estiu,Entrant,AdultsNens,Regional
